@@ -1,0 +1,31 @@
+{
+  "name": "chatbot-retail-custom-components",
+  "version": "1.0.0",
+  "description": "CHP + AS - Chatbot component repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec --recursive ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mwdreamteam:YouAreWelcome1@github.com/mwdreamteam/chatbot-retail-custom-components.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwdreamteam/chatbot-retail-custom-components/issues"
+  },
+  "homepage": "https://github.com/mwdreamteam/chatbot-retail-custom-components#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "log4js": "^1.1.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "nock": "^9.2.3",
+    "sinon": "^2.3.8"
+  }
+}

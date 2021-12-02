@@ -1,0 +1,18 @@
+{
+	"Satin Slip Dress":{
+		"Melbourne Central":true,
+		"Bourke St":false,
+		"Toorak Rd":true,
+		"Chadstone":false
+	},
+	"Denim Shirt Dress":{
+		"Melbourne Central":false,
+		"Bourke St":true
+	},
+	"TestNoStockItem":{
+		"Melbourne Central":false,
+		"Bourke St":false,
+		"Toorak Rd":false,
+		"Chadstone":false
+	}
+}

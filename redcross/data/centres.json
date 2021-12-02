@@ -1,0 +1,33 @@
+{
+    "Sunshine, 2264":{
+        "lat": -33.100,
+        "long": 151.550,
+        "state":"NSW"
+    },
+     "Sunshine, 3020":{
+        "lat": -37.780,
+        "long": 144.820,
+        "state":"VIC"
+    },
+    "Port Melbourne, 3207":{
+        "lat": -37.830,
+        "long": 144.960,
+        "state":"VIC"
+    },
+    "Abbotsford, 4670":{
+        "lat": -24.840,
+        "long": 152.020,
+        "state":"QLD"
+    },
+    "Abbotsford, 2046":{
+        "lat": -33.850,
+        "long": 151.130,
+        "state":"NSW"
+    },
+    "Abbotsford, 3067":{
+        "lat": -37.800,
+        "long": 145.000,
+        "state":"VIC"
+    }
+}
+

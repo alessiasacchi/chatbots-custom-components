@@ -1,0 +1,11 @@
+{
+    "Sunshine":{
+        "matches":["Sunshine, 3020, VIC", "Sunshine, 2264, NSW"]
+    },
+    "Port Melbourne":{
+        "matches":["Port Melbourne, 3207, VIC"]
+    },
+    "Abbotsford":{
+        "matches":["Abbotsford, 2046, NSW", "Abbotsford, 3067, VIC","Abbotsford, 4670, QLD"]
+    }         
+}

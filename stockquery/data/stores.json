@@ -1,0 +1,90 @@
+{
+    "Melbourne Central":{
+        "address":"211 La Trobe St, Melbourne VIC 3000",
+        "lat": -37.8108255,
+        "long": 144.9609448,
+        "openingHours":[
+            {"open":800,
+            "close":1800},
+            {"open":0,
+            "close":0},
+            {"open":800,
+            "close":1800},
+            {"open":800,
+            "close":1800},
+            {"open":1200,
+            "close":1700},
+            {"open":800,
+            "close":2200},
+            {"open":800,
+            "close":1800}
+        ],
+        "nearbyStores":["Bourke St", "Toorak Rd"]
+    },
+    "Toorak Rd":{
+        "address":"252 Toorak Rd, South Yarra VIC 3141",
+        "lat": -37.8396412,
+        "long": 144.9954157,
+        "openingHours":[
+            {"open":800,
+            "close":1800},
+            {"open":0,
+            "close":0},
+            {"open":800,
+            "close":1800},
+            {"open":800,
+            "close":1800},
+            {"open":800,
+            "close":1800},
+            {"open":800,
+            "close":1700},
+            {"open":800,
+            "close":1800}
+        ],
+        "nearbyStores":["Bourke St", "Melbourne Central", "Chadstone"]
+    },
+    "Bourke St":{
+        "address":"310 Bourke St, Melbourne VIC 3000",
+        "lat": -37.813418,
+        "long": 144.964467,
+        "openingHours":[
+            {"open":0,
+            "close":0},
+            {"open":0,
+            "close":0},
+            {"open":800,
+            "close":1800},
+            {"open":800,
+            "close":1800},
+            {"open":800,
+            "close":1800},
+            {"open":800,
+            "close":2000},
+            {"open":0,
+            "close":0}
+        ],
+        "nearbyStores":["Melbourne Central", "Toorak Rd"]
+    },
+    "Chadstone":{
+        "address":"Chadstone",
+        "lat": -37.8864562,
+        "long": 145.0802338,
+        "openingHours":[
+            {"open":800,
+            "close":2000},
+            {"open":0,
+            "close":0},
+            {"open":800,
+            "close":2000},
+            {"open":800,
+            "close":2000},
+            {"open":800,
+            "close":2000},
+            {"open":800,
+            "close":2000},
+            {"open":800,
+            "close":2000}
+        ],
+        "nearbyStores":["Toorak Rd"]
+    }
+}
